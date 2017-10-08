@@ -1,8 +1,8 @@
 # Site settings
 title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+email:       samhiatt@gmail.com
+author:      Sam Hiatt
+description: "My mirror of Pixyll, a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
