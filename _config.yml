@@ -3,8 +3,8 @@ title:       Pixyll
 email:       samhiatt@gmail.com
 author:      Sam Hiatt
 description: "My mirror of Pixyll, a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/pixyll"
+url:         "https://samhiatt.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
